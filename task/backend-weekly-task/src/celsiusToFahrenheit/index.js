@@ -10,4 +10,4 @@ alert (convertToFahrenheit(-10))
 
 
 convertToFahrenheit(-30) // -> -22
-convertToFahrenheit(-10) // -> 1
+convertToFahrenheit(-10) // -> 14
